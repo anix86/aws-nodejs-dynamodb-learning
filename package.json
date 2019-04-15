@@ -1,0 +1,30 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "aws nodejs and dynamoDB learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anix86/aws-nodejs-dynamodb-learning.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "dynamo",
+    "db",
+    "dynamoDB",
+    "learning"
+  ],
+  "author": "Aneesh N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anix86/aws-nodejs-dynamodb-learning/issues"
+  },
+  "homepage": "https://github.com/anix86/aws-nodejs-dynamodb-learning#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
