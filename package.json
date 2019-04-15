@@ -1,5 +1,5 @@
 {
-  "name": "clear",
+  "name": "awsdemoapp",
   "version": "1.0.0",
   "description": "aws nodejs and dynamoDB learning app",
   "main": "index.js",
