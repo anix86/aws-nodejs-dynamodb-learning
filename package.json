@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/anix86/aws-nodejs-dynamodb-learning#readme",
   "dependencies": {
+    "aws-sdk": "^2.437.0",
     "express": "^4.16.4"
   }
 }
